@@ -1,0 +1,11 @@
+year,dem_rep_margin,poll_predicted_margin,vep_turnout_percent,incumb_party_d,incumb_party_r,incumb_running_d,incumb_running_r,incumb_approval,party_id_lean_margin,congress_med_ideology,congress_ideology_margin,inflation_rate,gas_price,unemployment_rate,gun_homicide_rate,crime_perception,immigration_perception_margin,percent_urban
+1992,5.6,12,58.2,N,Y,N,Y,43,7,-0.16,0.66,3.03,1.159,7.4,6.8,89,13,76.1
+1996,8.5,11,51.7,Y,N,Y,N,58,7,0.16,0.74,2.93,1.25,5.4,5.2,71,6,77.64
+2000,0.5,-2,54.3,Y,N,N,N,63,5,0.13,0.75,3.38,1.555,3.9,3.8,47,7,79.06
+2004,-2.4,0,60.1,N,Y,N,Y,53,3,0.19,0.76,2.68,2.01,5.4,4.0,53,24,79.76
+2008,7.2,11,61.6,N,Y,N,N,29,12,-0.14,0.77,3.84,2.151,6.8,4.0,67,14,80.44
+2012,3.9,1,58.0,Y,N,Y,N,53,5,0.25,0.84,2.07,3.488,7.7,3.7,68,30,81.12
+2016,2.1,4,59.2,Y,N,N,N,54,5,0.28,0.87,1.26,2.187,4.7,4.5,70,57,81.86
+2020,4.5,7,65.3,N,Y,N,Y,43,5,-0.15,0.88,1.23,2.090,6.7,5.9,78,71,82.66
+2024,-1.5,0,63.5,Y,N,N,N,37,-1,-0.19,0.88,4.12,3.181,4.2,5.4,64,85,83.3
+
